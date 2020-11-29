@@ -1,0 +1,12 @@
+D:\studies\lab2\lab2\bin\Debug\lab2.exe.config
+D:\studies\lab2\lab2\bin\Debug\lab2.exe
+D:\studies\lab2\lab2\bin\Debug\lab2.pdb
+D:\studies\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\studies\lab2\lab2\obj\Debug\lab2.exe
+D:\studies\lab2\lab2\obj\Debug\lab2.pdb
+D:\studies\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\studies\lab2\lab2\bin\Debug\Newtonsoft.Json.dll
+D:\studies\lab2\lab2\bin\Debug\System.ValueTuple.dll
+D:\studies\lab2\lab2\bin\Debug\Newtonsoft.Json.xml
+D:\studies\lab2\lab2\bin\Debug\System.ValueTuple.xml
+D:\studies\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete
