@@ -1,0 +1,7 @@
+D:\studies\3 сем\lab5\lab5\bin\Debug\lab5.exe.config
+D:\studies\3 сем\lab5\lab5\bin\Debug\lab5.exe
+D:\studies\3 сем\lab5\lab5\bin\Debug\lab5.pdb
+D:\studies\3 сем\lab5\lab5\obj\Debug\lab5.csprojAssemblyReference.cache
+D:\studies\3 сем\lab5\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\studies\3 сем\lab5\lab5\obj\Debug\lab5.exe
+D:\studies\3 сем\lab5\lab5\obj\Debug\lab5.pdb
